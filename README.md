@@ -1,4 +1,4 @@
-# Discord-RPC Example
+# RPC Example For Discor
 
 This is an example on how to use discord-rpc package
 
@@ -12,6 +12,10 @@ This is an example on how to use discord-rpc package
 8. Open a new terminal
 9. Do "npm i"
 10. Do "node index.js"
+
+# Requires
+
+1. Install nodejs https://nodejs.org
 
 # **NOTE:**
 
