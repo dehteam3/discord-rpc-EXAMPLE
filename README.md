@@ -1,4 +1,4 @@
-# RPC Example For Discor
+# RPC Example For Discord
 
 This is an example on how to use discord-rpc package
 
