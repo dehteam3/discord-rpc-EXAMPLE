@@ -5,7 +5,7 @@ require("dotenv").config();
 rpc.on("ready", () => {
   setInterval(async () => {
     rpc.setActivity({
-      details: "PEOPLE ARE DISRESPECTFUL",
+      details: "Hello World",
       state: `I am bored`,
       largeImageKey: "a-mod",
       largeImageText: "This is me right now",
