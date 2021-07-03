@@ -9,7 +9,10 @@ This is an example on how to use discord-rpc package
 5. Change `.env.example` file to `.env`
 6. Change "YOUR-CLIENT-ID-HERE" to your application ID
 7. (Optional) you could change your text in `index.js`
+8. Open a new terminal
+9. Do "npm i"
+10. Do "node index.js"
 
-# \***\*NOTE:\*\***
+# **NOTE:**
 
 - You can't use replit or glitch for this because it must be running on ur computer
